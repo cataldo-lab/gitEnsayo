@@ -1,0 +1,32 @@
+La llave publica
+La llave privada
+
+
+Te puedo mandar a otra persona mi llave publica
+al enviar un mensaje.
+
+la llave publica esta conectada con la lleva privada.
+
+Cibrar el mensaje con la llave publica
+Para cifrar en mensaje secreto.
+
+con mensaje privado y llave publica no puede cibrar el mensaje codificado.
+
+----------------------------------------------------------------
+Mejor dicho
+*Al hacer un mensaje secreto
+Cifrar con la llave publica del receptor
+para que con su llave privada (receptor)
+pueda abrir el mensaje.
+
+________________________________
+
+
+En este sistema hay dos llaves publicas que se comunican
+CAda una con su respectiva llave privada.
+
+Al cifrar en mensaje.
+Esta hecho para que solo puedan ser  
+compartido entre ellas. 
+
+
